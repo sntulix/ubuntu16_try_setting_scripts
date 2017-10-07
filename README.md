@@ -1,1 +1,1 @@
-# ubuntu16_try_setup_scripts
+# ubuntu16 try setup scripts
